@@ -35,7 +35,6 @@ To get started with the Attendance Tracking Web Appl, follow these following ste
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to contact me through the following channels:
 
-* Email:
-* LinkedIn: 
+* Email: abhisahu1908@gmail.com
 
 Thank you for visiting the repository! I appreciate your interest and support.
